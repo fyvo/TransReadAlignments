@@ -1,0 +1,70 @@
+
+482 9:10:wrong 20:19:sure 23:24:sure 28:27:partial 29:28:contextual
+483 10:9:contextual 20:17:sure 23:20:partial 29:25:partial
+484 2:3:contextual
+485 1:2:partial 8:6:wrong 19:21:contextual 31:34:wrong
+486 5:6:partial
+487 4:4:wrong
+488 9:6:contextual
+489 2:0:wrong 12:13:contextual 16:15:contextual 18:17:contextual 21:11:contextual
+490 5:5:contextual 8:7:partial 15:15:wrong 20:22:partial
+491 10:9:wrong 21:29:wrong 50:34:contextual 52:36:contextual 63:42:contextual
+493 15:15:partial
+495 14:9:partial
+496 2:3:contextual 10:10:wrong 18:17:wrong 21:19:wrong
+497 10:7:contextual 11:8:partial 23:29:wrong 25:30:wrong 35:42:partial
+498 1:2:contextual
+499 26:25:wrong
+500 30:28:contextual 31:29:wrong
+501 5:14:partial 8:8:sure 16:6:sure 27:21:wrong 30:25:partial
+502 4:3:wrong 9:6:partial 10:8:wrong 32:46:wrong 37:51:wrong
+503 2:1:contextual 5:4:contextual 12:11:partial
+504 9:9:wrong
+505 17:17:partial
+506 15:20:wrong
+508 7:2:contextual 12:6:wrong 13:8:contextual 19:15:contextual 29:27:partial
+509 7:12:wrong 13:8:partial 16:14:wrong 17:15:wrong 20:17:contextual
+510 8:4:wrong 17:9:wrong 45:30:contextual 51:36:contextual 58:43:wrong
+511 2:2:contextual 14:12:partial 18:16:wrong 29:28:partial 45:43:contextual
+512 6:10:partial 8:7:partial 11:13:contextual 15:18:partial 17:19:partial
+513 8:4:partial 13:11:sure 17:17:partial 40:29:contextual 42:30:wrong
+514 9:13:sure
+515 6:8:sure 18:17:sure 39:35:contextual 43:41:wrong 48:44:wrong
+516 2:4:partial 5:5:partial 9:8:contextual 14:12:contextual
+517 21:20:wrong
+518 7:3:partial
+519 4:4:wrong 6:5:wrong 12:11:contextual 16:13:contextual 26:22:contextual
+520 2:2:partial 20:19:wrong
+521 15:6:contextual
+522 7:5:wrong 10:6:contextual 12:8:contextual
+523 10:5:contextual
+524 10:6:partial
+525 7:5:partial 10:7:contextual
+526 1:4:contextual 3:6:contextual 9:10:contextual 15:2:contextual
+527 5:4:contextual 9:11:wrong
+528 1:1:wrong 7:6:contextual 13:12:sure 17:17:sure 28:24:contextual
+529 0:0:sure 8:9:partial 11:12:sure 16:16:wrong 26:18:contextual
+530 7:6:partial 14:13:contextual 19:16:wrong 21:18:contextual
+531 1:0:contextual 6:3:partial
+532 2:2:wrong 6:4:partial 8:6:sure 25:25:sure
+533 0:0:wrong
+534 2:1:partial
+535 4:5:contextual 7:7:partial
+536 16:13:contextual 25:20:wrong 38:29:wrong 43:33:wrong 56:36:contextual
+537 15:12:wrong 21:19:contextual
+538 16:19:contextual
+539 3:13:contextual 13:1:partial
+540 1:4:wrong 9:8:contextual 12:11:wrong
+541 8:9:wrong 10:12:wrong
+542 7:6:wrong
+543 9:3:partial 11:5:contextual 14:14:wrong 16:16:contextual 17:17:partial
+544 12:9:wrong
+546 8:11:partial
+547 2:2:wrong
+549 2:3:wrong 3:8:contextual 6:11:partial
+550 1:0:sure 12:12:partial 15:14:partial 21:21:contextual
+551 7:1:partial
+552 19:16:partial 21:17:partial 33:29:partial 36:31:wrong 48:42:partial
+553 3:1:partial 31:32:contextual 34:33:contextual 36:36:partial 48:50:sure
+554 14:9:partial 17:12:contextual 45:34:sure 51:41:partial 59:43:wrong
+555 4:6:contextual 12:13:partial 21:22:wrong 25:25:partial

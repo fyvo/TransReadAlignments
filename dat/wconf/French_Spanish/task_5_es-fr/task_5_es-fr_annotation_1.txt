@@ -1,0 +1,41 @@
+
+30001 12:20:wrong 13:21:sure 16:15:contextual 21:22:contextual 25:26:partial
+30002 5:8:partial 8:11:wrong 12:16:sure 16:21:sure
+30003 2:2:sure 8:7:wrong 9:11:wrong
+30004 1:1:wrong 4:5:wrong
+30005 1:0:wrong 15:10:wrong
+30006 2:1:contextual 10:10:sure
+30007 16:17:wrong
+30009 11:11:sure
+30010 5:3:wrong 9:12:wrong 16:21:sure 19:4:wrong 23:23:wrong
+30011 0:1:wrong 5:7:contextual
+30012 3:6:partial 7:11:sure 20:22:wrong 22:24:partial 24:28:wrong
+30013 2:3:partial 3:8:sure 11:18:wrong 16:24:wrong
+30014 10:11:wrong 15:16:sure 26:28:contextual 28:31:wrong 29:22:wrong
+30015 5:10:contextual 13:22:sure 16:26:wrong 17:27:wrong
+30016 1:2:wrong 13:15:contextual 14:17:wrong
+30017 7:25:wrong 8:7:wrong 23:23:wrong 29:29:wrong 31:33:sure
+30018 1:1:wrong 2:2:wrong 3:3:wrong 6:5:sure 16:15:wrong
+30019 2:6:wrong 3:1:sure 9:8:wrong 12:10:sure
+30020 4:9:wrong 6:11:wrong 13:15:wrong 18:19:partial
+30021 8:9:contextual 18:21:wrong
+30022 15:17:contextual 20:20:wrong 39:43:contextual 41:44:wrong
+30023 9:8:sure 15:14:wrong 16:15:wrong 19:20:wrong 22:23:wrong
+30024 1:2:sure 13:18:partial 24:31:wrong 56:65:sure 58:70:partial
+30025 13:13:sure
+30026 8:7:contextual 12:16:wrong 23:22:wrong
+30027 1:2:wrong 13:15:sure 18:23:wrong
+30029 3:7:sure 13:17:sure 31:31:sure
+30030 3:3:sure 5:4:sure 9:13:wrong 21:28:sure 26:31:wrong
+30031 5:5:contextual
+30032 5:2:wrong 12:7:wrong 14:10:partial 22:18:sure
+30033 0:1:sure 2:2:sure 10:12:sure
+30034 5:7:sure 7:6:sure 19:20:sure 31:31:partial 37:37:wrong
+30035 2:2:sure 10:14:partial
+30036 2:6:sure 10:14:wrong 13:16:contextual 16:19:wrong 22:21:wrong
+30037 16:16:wrong 17:17:sure 21:21:sure 22:23:wrong 31:35:sure
+30038 6:7:sure 20:23:wrong 22:25:wrong 31:36:sure 34:37:wrong
+30039 19:18:sure 25:24:sure
+30040 10:10:sure 11:13:partial 17:22:sure 25:28:wrong 29:29:wrong
+30041 13:12:wrong
+30042 1:1:wrong 2:2:sure 9:8:partial

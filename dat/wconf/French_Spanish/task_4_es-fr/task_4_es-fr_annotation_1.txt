@@ -1,0 +1,632 @@
+
+20001 1:0:partial 7:6:partial
+20002 11:7:contextual 25:24:wrong 32:33:partial 33:35:partial 37:39:wrong
+20003 25:23:wrong 32:33:contextual 37:38:sure 43:44:partial
+20004 0:0:wrong 3:2:partial 10:9:wrong 16:14:sure 34:31:partial
+20005 18:18:contextual 22:23:contextual
+20006 7:10:sure 10:5:sure 13:13:wrong
+20008 15:18:partial 23:23:partial 40:40:contextual 43:42:partial
+20010 6:6:contextual
+20011 0:1:partial 13:15:partial 24:24:sure 41:42:contextual 44:46:contextual
+20012 10:10:partial 12:12:sure 13:16:contextual 18:20:sure 22:24:partial
+20013 4:4:contextual
+20014 3:3:wrong 19:21:partial 31:29:sure 36:32:contextual
+20015 5:6:contextual 7:9:wrong 8:10:partial 10:11:partial
+20016 15:16:sure
+20017 4:3:partial 14:13:partial
+20018 7:4:wrong 8:8:contextual
+20019 4:11:sure 8:17:wrong 13:21:wrong 26:30:sure 35:7:partial
+20020 0:0:wrong 5:12:wrong 8:8:wrong
+20021 4:1:partial 14:21:partial 24:32:wrong 27:34:wrong 30:38:wrong
+20022 3:5:sure 6:3:partial 9:12:contextual 19:26:sure
+20023 3:3:sure 5:1:partial 12:15:wrong
+20024 1:2:wrong 14:15:contextual 30:31:partial 31:32:wrong 35:33:partial
+20025 0:4:partial 3:7:wrong 7:12:contextual
+20026 7:17:wrong 14:4:sure 21:20:wrong 23:26:contextual 43:50:contextual
+20027 11:15:wrong 13:18:wrong 21:2:wrong 25:1:wrong
+20028 5:7:sure 9:12:contextual 20:28:contextual 22:24:wrong 56:71:contextual
+20029 2:2:contextual 7:10:wrong 23:29:wrong 31:34:contextual 33:37:wrong
+20030 6:2:contextual
+20031 3:6:partial 13:20:partial
+20032 3:3:contextual 11:13:contextual 16:19:contextual 26:29:wrong
+20033 2:2:sure 4:5:wrong 6:7:contextual
+20034 9:12:contextual
+20035 1:2:contextual 8:13:partial 9:9:partial
+20036 4:3:contextual 9:8:contextual
+20037 15:18:contextual 24:30:wrong 25:33:contextual 26:34:contextual 29:38:wrong
+20038 5:5:partial 10:9:contextual 14:20:sure
+20039 1:5:partial 12:10:wrong 28:29:contextual 33:33:wrong 48:45:contextual
+20040 3:7:contextual 4:9:sure 15:20:contextual 16:19:sure 29:33:wrong
+20041 4:1:wrong 9:6:contextual 20:20:wrong 22:21:partial 25:24:wrong
+20042 0:3:wrong 4:12:sure 5:15:contextual 20:18:contextual
+20043 1:1:wrong 2:3:wrong 13:17:contextual
+20044 1:1:contextual 8:8:contextual 11:13:wrong 16:17:contextual 17:16:partial
+20045 8:10:wrong
+20046 4:4:wrong 10:9:contextual 14:12:wrong 28:28:partial 31:30:contextual
+20047 4:11:wrong 8:4:sure 30:30:sure 32:32:partial 34:35:sure
+20048 1:1:wrong 4:2:contextual 14:17:partial 20:24:contextual 29:36:wrong
+20049 2:2:contextual 4:3:contextual 11:9:wrong 22:13:wrong
+20050 10:13:contextual 15:19:wrong 17:17:contextual 21:23:contextual 24:27:contextual
+20051 2:9:wrong 5:4:contextual 13:13:wrong
+20052 8:0:wrong 9:7:wrong 11:9:wrong 18:14:contextual 21:16:contextual
+20053 10:9:partial 19:19:wrong 21:22:partial 23:24:contextual 26:27:contextual
+20054 14:11:wrong 25:27:wrong 28:37:contextual 31:38:contextual 34:43:contextual
+20055 1:1:contextual 2:3:partial 11:9:contextual 18:16:contextual 23:21:partial
+20056 2:2:wrong 9:10:contextual 11:12:wrong
+20057 3:3:wrong 6:6:partial 17:18:wrong 20:22:contextual 21:23:contextual
+20058 3:1:wrong
+20059 1:3:wrong 2:12:wrong 6:9:wrong 9:15:wrong 10:2:wrong
+20060 1:1:partial 3:4:contextual 6:6:wrong 7:9:contextual 12:11:wrong
+20062 0:1:wrong 21:22:sure 28:26:contextual 30:28:wrong 34:41:wrong
+20063 0:1:wrong 8:7:wrong 11:16:wrong 13:19:contextual 20:29:partial
+20064 9:8:wrong 13:16:partial 17:22:wrong
+20065 1:3:contextual 2:5:contextual 21:29:wrong 24:31:contextual 26:34:contextual
+20066 6:4:partial 24:40:partial 27:42:contextual 28:43:sure
+20067 4:7:partial 8:11:wrong 33:50:wrong 35:47:contextual 36:53:partial
+20068 2:2:sure 6:8:sure 13:16:contextual 21:29:wrong 22:27:wrong
+20069 2:2:contextual 5:6:sure 10:10:partial
+20070 3:2:wrong 10:11:wrong 22:23:wrong 27:26:contextual 33:38:contextual
+20071 1:1:wrong 7:6:contextual 14:15:wrong 15:17:wrong 16:22:contextual
+20072 6:6:wrong 18:17:contextual
+20073 8:8:wrong 11:11:contextual 16:14:wrong
+20074 12:12:contextual 15:19:partial 19:26:contextual
+20075 16:19:wrong 27:29:sure 29:31:wrong 43:44:wrong 53:52:wrong
+20076 5:6:sure 7:8:wrong 9:10:contextual 14:15:sure 20:22:wrong
+20077 2:1:contextual
+20078 10:12:sure 16:19:wrong 19:27:partial
+20079 9:8:partial
+20080 12:14:sure 22:26:contextual 34:42:contextual 37:45:sure 39:46:contextual
+20082 8:8:partial 17:14:wrong 19:16:wrong 23:20:contextual 35:37:partial
+20083 6:8:wrong 18:19:sure 20:21:contextual
+20084 6:6:sure 10:11:sure 14:16:wrong 21:29:wrong 25:28:contextual
+20085 3:5:partial 11:15:wrong 38:38:wrong 50:48:contextual
+20086 7:8:sure
+20087 0:0:sure 4:3:wrong 10:11:contextual 13:15:contextual 14:5:contextual
+20088 3:2:partial 10:16:wrong
+20089 1:6:wrong 4:8:wrong 6:10:contextual 7:11:contextual 16:16:contextual
+20090 7:5:contextual 8:4:wrong 10:7:contextual 16:19:partial 27:23:wrong
+20091 7:9:wrong 12:13:contextual 20:26:wrong
+20092 3:4:wrong 11:11:wrong 20:10:wrong 26:18:wrong 37:32:partial
+20093 2:2:wrong 4:4:wrong
+20094 6:7:contextual 13:13:wrong 14:15:wrong
+20095 1:0:wrong 10:16:sure 11:19:partial
+20096 7:7:wrong 9:9:contextual 11:14:wrong
+20098 17:15:contextual 21:23:wrong
+20099 0:4:partial 2:9:partial 7:13:partial 14:16:partial
+20100 16:12:wrong 22:16:partial 23:17:partial
+20101 2:8:contextual 9:17:contextual
+20102 0:1:contextual 13:15:wrong
+20103 2:3:contextual 3:5:wrong 11:14:partial
+20104 0:2:wrong 3:6:partial 17:21:partial 18:27:wrong
+20105 5:4:partial
+20106 3:2:wrong 8:6:wrong 10:11:wrong
+20107 4:3:partial 18:18:wrong
+20108 5:6:partial 6:7:wrong 11:5:contextual 18:14:partial 22:17:wrong
+20109 7:8:wrong 11:10:wrong 15:17:contextual 21:23:wrong
+20110 4:6:contextual 14:15:contextual 21:23:wrong 22:24:partial 23:21:contextual
+20111 16:21:contextual
+20112 1:1:wrong 6:5:wrong 10:11:partial
+20114 5:4:wrong
+20115 6:6:contextual
+20116 8:12:contextual 11:17:partial 18:22:contextual
+20118 2:2:contextual 5:4:wrong
+20119 1:1:wrong 6:6:wrong 8:8:partial 11:10:contextual 23:25:partial
+20120 1:4:contextual 7:10:partial 10:13:wrong
+20121 8:19:contextual 16:21:wrong 17:22:wrong
+20122 1:2:wrong 2:5:contextual 5:9:wrong 11:16:wrong
+20123 4:3:partial 10:10:contextual 11:12:contextual 13:14:contextual 21:23:contextual
+20124 6:6:contextual 21:22:contextual
+20125 4:3:wrong 5:5:wrong 10:9:wrong 14:11:contextual 24:27:contextual
+20126 4:6:contextual 8:8:sure
+20127 1:1:contextual 16:17:contextual 23:26:contextual
+20128 5:6:wrong 6:1:contextual
+20129 1:2:wrong 10:9:contextual 16:13:partial 18:15:wrong 23:17:sure
+20130 1:1:contextual 34:23:sure 38:37:sure 40:40:partial
+20131 27:30:wrong 33:40:contextual 35:41:contextual 39:47:contextual
+20132 4:5:partial 14:13:wrong
+20133 8:9:partial
+20134 2:4:sure 13:17:wrong 19:21:contextual 21:23:wrong
+20135 3:6:wrong 5:7:wrong 9:11:contextual 15:17:contextual 17:19:sure
+20136 13:17:contextual 18:22:wrong 20:26:contextual 26:31:wrong 28:33:wrong
+20137 13:14:contextual 18:22:wrong 23:27:wrong 27:33:wrong 28:35:wrong
+20138 1:7:wrong 12:22:contextual 15:24:partial 34:43:partial 41:48:wrong
+20139 0:0:contextual 11:18:contextual 19:26:contextual 26:35:contextual 28:37:wrong
+20140 0:17:wrong 5:24:contextual 11:30:partial 13:2:partial
+20141 3:1:contextual 10:9:partial 26:21:wrong 38:31:contextual 44:37:partial
+20142 1:22:contextual 14:10:wrong 15:13:wrong
+20143 4:7:contextual 6:9:contextual 7:12:partial 16:30:wrong 35:44:contextual
+20144 7:16:wrong 17:20:sure 27:30:contextual
+20145 4:3:contextual 9:11:contextual 13:15:partial 16:19:partial 22:27:wrong
+20146 1:3:wrong 8:12:wrong 14:15:sure 16:17:contextual 30:26:wrong
+20147 4:5:contextual 8:8:contextual 9:9:wrong 17:20:contextual 23:25:wrong
+20148 18:22:contextual 24:25:contextual 31:40:partial 39:37:wrong 49:54:contextual
+20149 12:17:wrong 15:18:contextual 24:24:sure 34:34:contextual 50:50:wrong
+20150 15:20:contextual 24:28:contextual 31:37:contextual 37:43:wrong 57:59:partial
+20151 6:9:wrong 19:25:contextual 21:26:wrong
+20152 3:2:partial 13:18:contextual 15:22:contextual 20:25:partial
+20153 1:10:partial 7:13:wrong 18:18:contextual
+20154 7:6:wrong 26:19:wrong 29:25:contextual 31:28:partial
+20155 2:4:contextual 4:0:contextual 16:10:contextual 17:12:contextual 18:14:contextual
+20156 3:5:wrong 14:16:contextual 19:17:contextual 21:22:contextual 35:40:wrong
+20157 1:2:wrong 14:11:contextual 23:21:contextual
+20158 0:1:contextual 20:22:sure 28:31:partial 36:39:partial
+20159 29:32:contextual 47:59:partial 50:60:wrong 52:62:sure 53:63:wrong
+20160 17:8:partial
+20161 11:8:partial
+20162 1:6:contextual 34:37:contextual
+20163 3:2:contextual 29:31:contextual
+20164 1:4:wrong 2:5:sure 13:10:partial 19:17:partial
+20166 14:17:wrong
+20167 5:7:partial 16:18:sure
+20168 5:6:wrong 6:7:contextual 16:16:contextual
+20169 46:51:sure
+20170 38:41:partial
+20171 2:2:wrong 10:6:contextual 17:13:contextual
+20172 13:12:partial 23:22:contextual 28:29:partial 35:37:wrong 38:38:contextual
+20173 6:9:contextual
+20174 3:6:partial 5:4:partial 9:9:wrong
+20175 14:11:contextual 18:14:contextual 19:15:contextual 21:19:wrong
+20176 6:5:partial 13:12:partial
+20177 11:12:contextual
+20178 6:9:wrong 8:10:contextual 11:13:partial 32:39:contextual
+20179 1:2:wrong 2:3:wrong 4:6:wrong 10:10:wrong
+20181 4:6:contextual 8:10:partial 24:26:contextual 31:33:partial
+20182 22:18:wrong 31:28:contextual 33:30:partial
+20183 0:1:contextual 8:8:contextual
+20184 1:3:contextual 12:12:contextual 13:13:sure
+20185 2:2:partial 14:16:contextual 16:18:sure 24:24:contextual
+20186 7:10:sure 31:35:sure 46:48:contextual 63:69:wrong
+20187 0:0:wrong 7:10:contextual
+20188 6:1:partial 8:11:sure 20:26:partial
+20189 6:7:wrong 12:13:sure
+20191 7:5:wrong 11:13:contextual 18:19:partial 23:25:contextual 26:34:partial
+20192 3:3:sure
+20193 4:5:contextual 7:8:partial 8:10:sure
+20194 4:3:contextual 6:11:wrong
+20195 1:1:contextual 3:4:contextual 24:27:sure 32:31:contextual 38:16:contextual
+20196 9:24:partial 10:25:partial 14:28:contextual
+20198 4:5:contextual 13:17:contextual 14:19:contextual 27:31:contextual 46:50:contextual
+20199 1:6:contextual 12:13:partial
+20200 3:1:partial 12:8:contextual 19:18:wrong 21:19:contextual 26:23:contextual
+20201 2:2:partial 9:12:contextual 21:6:partial 22:7:contextual 24:8:contextual
+20202 13:9:contextual
+20203 1:11:contextual 5:8:partial 13:18:wrong 14:19:partial 15:20:wrong
+20204 5:6:contextual 17:20:wrong 20:25:contextual 22:27:sure
+20205 20:27:partial 24:30:contextual 33:39:wrong 37:42:wrong
+20206 2:1:partial 5:6:sure 22:25:sure 35:37:sure 39:42:wrong
+20207 1:0:contextual 30:27:wrong 32:34:wrong 39:39:contextual
+20208 12:11:contextual 13:12:wrong 17:18:contextual 24:24:sure 40:45:partial
+20209 0:0:wrong 10:11:sure 14:13:wrong 23:22:contextual
+20210 5:10:wrong 8:11:partial 12:14:partial 16:20:contextual 24:9:wrong
+20211 13:15:contextual 25:29:partial
+20212 10:10:partial 12:13:contextual
+20213 1:2:partial
+20214 15:21:partial
+20215 2:3:wrong 5:7:sure
+20216 3:5:partial 4:7:contextual
+20217 5:5:wrong
+20218 4:38:partial 9:19:wrong 29:6:wrong 33:16:wrong 36:41:wrong
+20219 2:16:wrong 7:29:wrong 11:34:wrong 13:35:wrong
+20220 1:20:sure 2:25:wrong 3:23:contextual 12:31:wrong
+20222 3:7:contextual 10:30:contextual 12:31:partial 20:34:wrong
+20223 1:3:contextual 14:13:wrong 18:18:wrong 19:19:wrong 26:21:wrong
+20224 2:3:sure 5:6:partial 7:7:wrong 8:9:wrong 16:19:sure
+20225 1:2:wrong 4:4:contextual 11:10:wrong 13:13:contextual
+20226 2:2:wrong 12:10:wrong 15:8:wrong
+20227 0:0:sure 6:11:contextual
+20228 3:6:contextual 4:9:wrong 5:11:contextual
+20229 13:10:contextual 14:12:wrong
+20230 2:3:contextual 13:19:contextual
+20231 9:6:wrong 14:9:wrong 15:13:partial
+20232 11:8:contextual 29:25:partial 35:31:contextual 45:40:sure 49:43:wrong
+20233 8:7:contextual 14:13:partial 19:19:contextual
+20234 0:0:contextual 10:13:sure 15:18:sure
+20235 10:7:wrong
+20236 2:3:contextual 18:18:partial
+20237 18:20:contextual 28:30:contextual 30:32:contextual
+20238 7:6:wrong 17:14:partial
+20239 8:5:wrong 14:12:wrong 21:16:wrong 28:27:contextual 31:30:wrong
+20240 2:2:contextual 28:30:sure
+20241 5:4:wrong 6:7:wrong 10:13:contextual 15:19:contextual 18:23:contextual
+20242 6:2:wrong 29:31:contextual 32:34:sure 42:42:contextual
+20243 1:2:contextual 2:3:sure
+20244 20:19:partial 23:21:contextual
+20245 9:10:contextual 11:12:contextual
+20246 15:18:contextual
+20247 25:26:sure 27:29:contextual 31:33:sure 53:56:partial
+20248 15:15:partial 25:25:contextual
+20249 4:4:sure
+20250 0:5:contextual 11:4:contextual 12:7:contextual 22:20:contextual
+20251 5:5:contextual 11:15:contextual 18:21:contextual
+20252 15:24:contextual 22:34:partial
+20253 0:9:partial 4:6:contextual
+20254 8:13:wrong 14:18:contextual 35:46:partial
+20256 5:3:contextual 17:13:partial
+20257 24:26:contextual 38:40:sure 47:50:sure 48:52:partial 57:64:wrong
+20258 4:5:partial
+20260 15:11:sure 17:13:contextual 20:17:partial 26:21:contextual
+20261 9:9:wrong
+20262 6:7:sure
+20263 6:6:contextual
+20264 23:21:contextual
+20265 2:2:contextual 4:5:partial
+20266 11:9:wrong 27:23:contextual 39:37:wrong
+20267 23:24:wrong 26:25:wrong 29:29:partial 31:30:partial
+20268 11:13:contextual 18:21:partial
+20269 3:8:partial 12:18:partial 43:49:wrong 44:48:partial 54:54:sure
+20270 1:3:wrong 5:10:contextual 10:15:contextual 12:19:contextual
+20271 3:4:wrong 24:23:wrong
+20272 4:4:contextual 21:21:wrong 43:43:sure 45:46:contextual 49:52:partial
+20273 4:0:wrong 7:4:partial 13:13:sure 19:20:partial 25:28:wrong
+20274 5:4:sure
+20275 0:0:wrong 5:4:sure 16:13:contextual 18:15:partial
+20276 0:1:partial 8:9:wrong
+20277 1:1:contextual 4:4:contextual 6:8:sure 7:9:sure 20:21:contextual
+20278 2:3:contextual 12:12:sure 16:15:partial 19:16:wrong
+20279 16:16:contextual 19:19:contextual
+20280 32:34:contextual 41:42:contextual 42:43:partial 44:40:wrong
+20281 4:1:partial 5:3:wrong 26:26:sure 36:36:contextual 43:38:wrong
+20282 16:18:sure
+20283 3:4:contextual 14:16:wrong 16:18:sure 34:37:partial 51:53:partial
+20284 16:12:partial 19:21:wrong
+20285 15:15:wrong 22:20:wrong
+20286 2:3:sure 23:29:wrong
+20287 8:6:wrong 11:9:contextual
+20288 7:4:wrong 17:13:contextual 19:14:partial 47:38:wrong 62:57:contextual
+20290 4:7:contextual 9:13:contextual 20:26:sure
+20291 9:9:sure
+20292 12:10:contextual
+20293 7:11:wrong
+20295 7:16:partial 19:7:partial
+20296 6:7:wrong
+20297 2:3:contextual 18:30:contextual 23:33:wrong 47:60:wrong 52:65:wrong
+20299 4:3:wrong 5:4:wrong 9:9:wrong 18:13:contextual
+20300 1:3:contextual 4:5:contextual 15:18:partial 18:21:wrong 19:23:wrong
+20301 3:6:contextual 4:8:contextual 13:14:wrong
+20302 4:6:contextual 11:1:contextual 12:15:wrong 19:22:contextual 33:35:sure
+20303 2:2:contextual 10:11:sure 19:19:wrong 20:21:sure 26:32:partial
+20304 26:23:contextual 50:52:contextual 64:68:contextual
+20305 1:2:partial 35:32:contextual 44:41:sure 48:46:sure
+20306 3:7:contextual 10:14:contextual 35:42:wrong 40:53:contextual 41:52:sure
+20307 5:5:wrong 15:16:wrong 25:30:wrong 29:36:contextual
+20308 25:26:contextual 28:28:contextual 34:32:contextual
+20309 8:6:partial 11:9:wrong
+20311 11:12:partial
+20312 0:0:contextual 17:18:wrong 18:21:contextual 57:59:contextual 65:69:wrong
+20313 1:4:contextual
+20314 8:8:wrong 10:12:sure 17:20:sure
+20315 18:16:partial
+20316 9:7:partial 14:10:contextual 16:14:contextual
+20317 25:28:sure 33:37:wrong
+20318 1:1:contextual 2:2:partial 15:15:partial 23:22:partial 26:26:sure
+20319 1:1:contextual 9:11:contextual
+20321 6:6:partial 25:25:contextual
+20322 1:1:partial 26:24:wrong
+20323 25:29:partial
+20324 3:4:wrong 23:28:wrong 28:34:sure 54:63:contextual 60:68:contextual
+20325 23:11:contextual 39:38:contextual 44:43:wrong
+20326 3:5:contextual 30:35:sure
+20327 2:0:partial 4:1:wrong
+20328 13:15:wrong 16:14:sure
+20329 3:3:sure 5:5:wrong
+20330 10:8:sure 19:23:wrong 28:33:sure 33:41:wrong
+20331 1:3:sure 13:9:sure 16:12:wrong 19:15:wrong
+20332 12:11:wrong 17:15:contextual 58:57:contextual 70:70:sure
+20333 13:9:wrong
+20334 2:2:contextual 6:6:partial
+20335 18:19:partial 27:29:contextual 36:37:partial
+20336 6:4:partial 7:7:partial
+20337 10:9:contextual 16:16:sure 23:19:sure
+20338 0:2:contextual 15:18:partial 24:30:sure 35:44:contextual 39:47:partial
+20339 0:0:sure 5:5:wrong 7:4:wrong 12:10:sure
+20340 6:7:sure 8:9:sure
+20341 12:10:contextual 14:11:wrong
+20342 9:9:wrong 10:8:wrong
+20344 10:9:sure 12:11:contextual
+20346 7:7:contextual 12:12:contextual 16:15:partial 44:41:contextual
+20347 0:2:contextual 13:14:partial 19:19:contextual 21:22:contextual
+20348 6:8:wrong 8:11:contextual 12:17:partial
+20349 14:17:wrong 15:18:partial
+20350 7:5:wrong 9:8:partial 13:10:contextual 17:13:contextual 24:19:partial
+20352 5:25:partial 10:2:contextual 14:6:sure 15:7:wrong
+20353 7:4:partial 16:11:partial 25:19:wrong
+20354 7:7:partial 12:11:wrong 23:24:contextual 26:28:wrong
+20355 0:1:partial 6:4:wrong 7:5:contextual 15:9:partial 29:21:wrong
+20356 1:1:sure 12:9:wrong 16:21:wrong 17:20:wrong
+20357 3:3:partial 10:12:partial
+20358 0:1:partial 1:5:contextual 8:14:wrong
+20359 3:4:partial 7:18:wrong 11:13:wrong
+20360 1:1:partial 13:11:wrong
+20361 10:9:wrong 15:14:contextual 19:20:wrong 24:17:partial
+20362 3:4:wrong 9:8:wrong 11:12:wrong 16:18:wrong 22:27:wrong
+20363 4:6:wrong 7:11:contextual 8:12:partial 18:15:contextual 20:26:sure
+20364 1:1:wrong
+20365 4:6:partial 5:8:wrong 11:11:wrong
+20366 0:1:contextual 2:3:wrong
+20367 5:14:sure
+20368 3:2:contextual 5:5:wrong 7:7:wrong 11:9:contextual 15:14:contextual
+20369 13:14:contextual 17:20:contextual 26:10:wrong 27:29:wrong
+20370 12:17:wrong
+20371 19:25:partial 22:28:wrong
+20372 12:11:contextual
+20373 20:23:contextual
+20374 5:4:contextual 10:10:wrong 11:11:partial 14:14:contextual
+20375 9:10:sure
+20376 1:0:wrong 6:11:sure
+20377 13:14:wrong 14:16:partial
+20378 5:9:wrong 9:14:wrong 17:29:contextual
+20380 2:3:contextual 9:12:wrong 10:11:wrong
+20381 10:9:contextual 17:18:sure 26:28:contextual 28:31:partial
+20383 7:7:wrong 13:14:partial 19:21:partial
+20384 3:3:contextual 8:5:contextual 10:7:contextual
+20385 4:7:contextual
+20387 0:0:contextual
+20388 1:7:wrong 11:15:wrong
+20389 2:1:contextual 22:24:partial 24:27:contextual
+20390 18:22:wrong 24:29:wrong
+20391 0:1:contextual 3:5:contextual 7:9:sure 24:25:contextual
+20392 6:5:partial 26:22:contextual 31:29:wrong 44:40:partial 53:49:wrong
+20393 4:9:contextual 7:11:contextual 12:13:contextual
+20394 4:13:sure 10:7:contextual 21:25:wrong 39:45:wrong 43:47:contextual
+20395 3:2:contextual 6:5:sure 8:7:sure 14:12:contextual 18:13:contextual
+20396 1:2:wrong 19:13:wrong 38:34:wrong 40:36:contextual 47:37:partial
+20397 4:18:wrong 8:3:wrong
+20398 11:6:wrong
+20399 0:5:wrong 6:8:wrong 13:1:wrong 18:15:contextual 25:9:contextual
+20400 3:4:contextual 4:7:contextual 6:9:contextual 12:15:contextual 22:22:contextual
+20401 1:2:wrong
+20402 1:4:wrong 6:10:contextual 9:14:wrong
+20403 12:10:contextual
+20404 3:5:contextual 8:11:sure 10:14:wrong 11:19:wrong 15:26:partial
+20405 5:6:contextual 8:10:sure 9:11:sure 16:17:wrong
+20406 1:2:contextual 6:5:contextual 14:13:partial 18:18:contextual
+20407 0:1:wrong 2:8:contextual
+20408 13:13:partial 25:22:wrong 36:37:partial 55:59:partial 58:51:sure
+20409 11:12:contextual 16:20:wrong 19:25:partial
+20410 11:6:wrong 15:11:partial 21:14:wrong 27:19:sure 31:24:wrong
+20411 2:2:sure 7:6:contextual 9:9:contextual 23:25:contextual 36:37:wrong
+20412 14:14:partial 33:34:partial
+20413 7:3:wrong 21:12:contextual 32:29:partial
+20414 10:12:contextual 16:19:partial 30:33:wrong
+20415 4:13:wrong 8:18:wrong 10:20:partial 25:3:wrong 29:5:wrong
+20416 3:4:partial 7:9:partial
+20417 2:2:contextual 9:10:partial 19:22:partial 28:25:wrong
+20418 7:9:partial 13:20:partial 24:26:wrong 25:27:wrong 29:32:contextual
+20419 2:2:contextual 5:6:contextual 24:27:sure 29:32:partial
+20420 11:11:wrong 13:13:contextual
+20421 3:4:partial 9:18:wrong 12:10:contextual
+20422 4:4:contextual 5:5:partial
+20423 12:9:contextual
+20424 14:13:contextual
+20425 6:6:contextual 11:11:wrong
+20426 2:2:contextual 7:10:partial 17:21:contextual 22:31:sure 24:28:contextual
+20427 25:30:partial
+20428 1:3:contextual 11:14:contextual 13:13:contextual 14:16:sure 24:26:contextual
+20429 10:13:partial 22:26:partial
+20430 3:1:sure 15:13:wrong
+20431 28:31:partial 40:42:partial 44:45:contextual
+20432 1:1:partial
+20433 11:11:partial
+20434 15:15:contextual
+20435 21:21:contextual 22:22:partial 23:23:contextual
+20436 7:7:sure
+20437 1:1:wrong
+20439 6:9:contextual 9:16:wrong 17:13:contextual
+20440 4:4:partial 7:8:wrong 14:21:contextual 21:25:contextual 38:36:wrong
+20441 2:5:contextual 11:12:wrong 19:17:wrong 21:20:contextual 27:25:wrong
+20442 17:13:contextual 20:18:contextual 23:23:contextual 25:26:wrong 27:30:contextual
+20444 5:4:sure
+20445 4:7:contextual 14:16:contextual
+20446 6:3:wrong 14:11:contextual
+20447 2:1:contextual 40:34:contextual
+20448 2:1:contextual 8:7:sure
+20449 21:25:contextual
+20450 25:28:sure 34:35:contextual 36:37:contextual 48:50:contextual 52:54:contextual
+20451 12:13:partial 41:39:contextual 43:41:sure 45:43:sure 57:56:wrong
+20452 18:14:partial 26:24:sure 49:52:contextual 62:66:contextual 75:73:partial
+20453 28:32:sure
+20454 2:3:partial 9:10:sure 13:19:contextual
+20455 1:8:contextual 3:9:wrong 25:23:contextual
+20456 3:1:sure 17:17:partial 30:28:sure
+20457 1:1:sure 14:17:wrong 21:23:contextual 22:25:contextual 23:27:contextual
+20458 5:10:partial 10:14:contextual 17:21:wrong 19:25:partial 22:28:wrong
+20459 4:5:partial
+20460 4:4:contextual 7:6:contextual 13:13:wrong
+20461 6:6:contextual 7:8:contextual 9:10:sure
+20462 2:3:contextual 4:4:wrong 9:6:contextual 14:18:wrong 16:14:wrong
+20463 4:4:contextual 6:7:wrong 9:10:contextual
+20464 1:2:contextual 6:4:contextual 10:9:contextual
+20465 1:2:wrong 3:3:sure 7:7:partial
+20466 5:9:partial 8:12:wrong 14:33:wrong 17:24:contextual 22:29:wrong
+20467 2:2:sure 5:5:contextual 15:14:wrong 17:15:wrong
+20468 7:10:wrong 8:12:contextual 11:14:partial 18:24:sure
+20469 0:2:contextual 13:12:sure 26:24:contextual 28:26:sure 32:31:contextual
+20470 18:18:contextual
+20471 3:3:contextual 12:12:sure 36:37:sure
+20472 8:8:contextual 9:9:contextual
+20473 11:10:wrong 13:12:partial
+20474 22:20:wrong 25:22:partial
+20476 8:7:contextual 11:11:sure
+20477 3:6:contextual 7:12:partial 29:34:sure 36:49:wrong 37:50:wrong
+20478 2:2:contextual 31:35:partial 35:38:contextual 39:41:contextual 42:45:contextual
+20479 5:7:partial 21:22:contextual
+20480 9:9:contextual 10:11:wrong 12:12:contextual 24:24:sure 36:40:sure
+20481 0:1:sure 10:12:partial
+20482 5:4:contextual 8:11:contextual
+20483 27:23:partial 29:25:contextual 42:38:contextual
+20485 3:1:contextual
+20486 2:2:contextual 10:12:contextual 28:33:sure
+20487 3:4:contextual 18:29:contextual 28:35:wrong 37:49:contextual
+20488 8:10:contextual 28:28:sure 38:39:contextual 44:47:sure 52:55:sure
+20490 2:1:contextual 4:5:wrong 5:6:contextual 10:14:sure
+20491 20:18:contextual
+20492 10:11:contextual
+20493 7:7:contextual
+20494 3:3:contextual 9:8:partial 16:18:partial
+20496 16:15:contextual 17:16:contextual 18:17:sure
+20497 1:1:sure 7:11:partial 9:9:contextual
+20498 3:3:contextual 7:9:partial 9:7:contextual
+20499 4:6:partial
+20500 4:4:partial 15:17:partial 17:20:wrong 18:23:partial 20:25:sure
+20501 17:17:contextual 20:20:contextual
+20503 4:6:partial
+20504 41:42:partial
+20505 8:12:contextual 15:18:contextual
+20506 9:12:contextual 21:23:contextual 25:26:partial
+20507 10:13:wrong 18:20:wrong
+20508 2:3:contextual 19:20:partial
+20509 2:1:wrong 3:2:sure 9:8:sure
+20510 22:24:partial 28:30:partial
+20511 0:3:wrong 10:12:partial 24:28:wrong
+20512 5:6:partial
+20513 2:2:contextual 11:10:partial 22:20:contextual
+20514 8:7:contextual 9:9:sure
+20515 2:3:contextual 12:24:wrong 19:21:partial
+20516 9:9:partial
+20517 13:15:wrong 27:32:contextual 29:37:contextual
+20518 11:13:sure
+20519 17:18:sure
+20520 22:18:sure 24:21:wrong
+20521 6:8:partial 12:13:contextual
+20522 6:6:partial 10:10:partial 19:19:partial
+20523 6:19:partial 24:24:wrong
+20524 10:38:wrong 14:19:contextual 16:22:contextual 17:25:sure 31:43:wrong
+20525 3:5:wrong 7:11:contextual 15:20:partial 17:26:wrong 18:27:sure
+20526 1:2:contextual 13:15:wrong 22:23:wrong 30:32:wrong 34:37:wrong
+20527 8:9:contextual 34:36:contextual 41:44:wrong 43:49:partial
+20528 9:10:sure 15:17:contextual 16:18:sure
+20529 3:6:partial 10:11:partial
+20530 2:2:wrong 7:4:contextual 16:12:sure
+20531 1:1:contextual 7:4:wrong 13:8:contextual 19:15:wrong 22:17:contextual
+20532 0:0:wrong 2:3:contextual 5:9:wrong
+20533 13:14:partial
+20534 25:23:contextual
+20535 5:7:contextual 10:12:partial
+20536 5:10:contextual 37:43:contextual
+20538 31:39:wrong 50:59:sure
+20539 14:15:sure 25:24:contextual 27:26:wrong
+20542 1:13:partial
+20543 6:7:contextual 19:20:contextual
+20544 3:1:wrong 14:16:contextual 18:18:partial 24:24:sure
+20545 7:9:wrong 12:17:contextual 15:19:sure 45:47:contextual
+20547 4:4:sure 13:16:wrong
+20548 17:21:partial 18:20:wrong
+20549 5:5:partial 28:24:contextual
+20551 0:0:sure 6:7:partial 19:20:contextual
+20552 18:19:partial 42:44:wrong 44:47:partial 53:55:contextual 56:61:contextual
+20553 3:4:contextual 13:12:sure 23:22:contextual 29:29:wrong 45:40:wrong
+20554 2:3:contextual 11:8:wrong 13:10:wrong 28:28:contextual 38:35:contextual
+20555 6:16:wrong 31:42:wrong 45:60:contextual 49:64:contextual 52:68:sure
+20556 2:6:wrong 7:13:sure 9:15:partial
+20557 2:4:contextual 8:6:wrong
+20558 9:11:sure
+20559 1:0:wrong 12:13:sure 16:18:partial
+20560 4:6:wrong 8:7:contextual
+20561 11:12:contextual
+20562 1:1:wrong 2:4:wrong 5:10:wrong
+20563 3:2:wrong 8:6:wrong 9:8:partial
+20564 10:9:contextual 13:14:wrong 18:17:wrong 20:19:wrong 28:10:contextual
+20565 6:1:wrong 8:7:contextual 10:10:wrong 20:14:wrong
+20566 3:29:contextual 6:1:contextual 20:15:contextual 21:16:sure 29:24:partial
+20567 8:13:partial 18:22:wrong 26:3:contextual 39:30:wrong 42:32:contextual
+20568 1:0:wrong 2:2:wrong 19:26:contextual 23:32:contextual 43:56:contextual
+20569 0:1:contextual 2:3:contextual 14:10:wrong 17:12:contextual
+20570 24:18:wrong
+20571 2:1:contextual 16:16:contextual
+20572 1:4:contextual 9:6:sure 12:8:wrong 21:18:wrong 23:21:contextual
+20573 18:19:contextual 23:21:contextual 24:23:wrong 28:29:contextual 32:27:contextual
+20574 0:1:wrong 13:2:wrong 15:4:contextual 16:5:contextual 20:10:contextual
+20575 23:26:wrong 29:28:wrong
+20576 11:10:contextual 15:21:partial 20:24:wrong
+20577 1:0:wrong 12:6:contextual 25:30:contextual 33:44:partial :42:unaligned
+20578 4:2:contextual 19:32:contextual 31:22:contextual 32:23:wrong 38:52:sure
+20579 0:1:sure 11:12:contextual 18:23:wrong 19:24:wrong 28:46:contextual
+20580 3:3:partial 4:5:wrong 14:15:contextual
+20581 3:6:partial 7:3:contextual 15:14:wrong
+20582 4:5:wrong
+20583 4:9:contextual
+20584 2:6:partial 7:14:contextual 10:16:partial 11:22:wrong
+20585 4:4:contextual 10:11:wrong 16:21:sure 17:22:sure 19:23:partial
+20586 3:9:wrong 9:8:wrong 12:12:wrong 14:14:wrong 19:23:wrong
+20587 5:4:contextual 16:22:wrong 18:27:wrong 21:28:contextual
+20588 2:3:partial 3:4:contextual 5:7:contextual 12:17:wrong 13:21:contextual
+20589 5:9:contextual 13:17:partial 33:46:contextual 36:50:contextual
+20590 3:4:wrong 21:26:contextual
+20591 17:19:contextual
+20592 14:14:partial 51:59:partial
+20593 7:9:sure
+20594 6:5:sure
+20596 6:6:contextual 10:10:sure 12:12:sure 17:16:wrong
+20597 19:19:contextual
+20598 1:4:sure
+20599 3:3:partial 5:4:contextual 6:5:partial
+20600 21:23:partial
+20602 16:15:contextual 18:17:wrong
+20603 10:20:partial
+20604 3:6:wrong 9:15:partial 21:26:contextual 36:45:wrong 38:47:partial
+20605 7:7:sure 11:12:contextual 12:13:contextual
+20606 9:7:contextual 12:9:wrong 25:23:contextual 29:29:partial 35:35:sure
+20607 9:6:partial 21:21:wrong
+20608 17:17:partial 24:22:partial 36:35:contextual
+20609 6:8:contextual 22:26:contextual 28:32:contextual 34:39:partial 58:72:sure
+20610 2:4:partial 30:32:partial 31:34:wrong 38:44:sure 51:55:wrong
+20611 9:13:wrong 11:17:wrong 16:20:wrong 22:37:wrong 27:24:wrong
+20612 3:4:contextual 4:5:wrong 22:28:contextual
+20613 9:4:contextual 11:13:contextual 48:48:contextual 49:49:sure 51:55:contextual
+20614 4:6:wrong 8:10:contextual 11:13:wrong 12:12:wrong 21:18:contextual
+20615 20:15:contextual 31:26:contextual 39:37:contextual 42:31:contextual 44:34:contextual
+20616 2:2:contextual 6:9:contextual 12:12:contextual 14:17:wrong 24:30:contextual
+20617 8:8:wrong 12:12:contextual
+20618 2:1:contextual 5:3:contextual
+20619 2:3:wrong 9:10:contextual 29:23:contextual 30:29:wrong 34:33:wrong
+20620 3:4:contextual 10:10:wrong 33:34:wrong
+20621 4:3:sure 13:11:contextual 23:15:partial
+20622 0:1:partial 6:5:wrong 8:11:wrong
+20623 13:10:contextual 26:21:sure 30:22:wrong
+20624 16:13:partial 24:17:contextual 27:21:wrong 28:24:wrong 43:40:sure
+20625 9:8:contextual 12:11:wrong 21:17:wrong 26:21:contextual 28:23:contextual
+20626 8:10:partial 24:32:wrong 34:39:wrong 37:42:sure
+20627 7:4:contextual 17:16:wrong 51:51:wrong 64:67:contextual 74:74:wrong
+20628 0:2:contextual 8:11:partial
+20629 4:4:contextual 6:7:contextual 15:13:contextual 20:18:contextual
+20630 3:4:contextual 8:8:contextual 10:11:wrong 17:20:contextual 27:26:wrong
+20631 2:0:wrong 5:3:wrong 11:10:wrong 15:12:wrong
+20632 1:1:contextual 8:8:contextual 9:11:wrong 14:15:partial
+20633 3:5:contextual 7:9:contextual 12:18:contextual
+20634 9:5:wrong 13:10:partial 16:14:wrong 25:18:wrong
+20635 5:4:contextual 6:6:contextual
+20636 3:4:wrong 9:10:wrong 10:8:contextual
+20637 14:16:contextual 17:18:partial 29:39:partial 38:45:contextual 48:30:partial
+20638 6:6:contextual 35:34:wrong
+20639 2:3:partial 7:7:wrong
+20640 3:4:wrong 9:12:contextual
+20641 7:7:contextual 9:11:contextual
+20642 1:2:partial 21:20:contextual 30:37:contextual 44:40:partial 51:46:contextual
+20643 0:2:partial 2:6:partial 4:8:wrong 16:18:contextual 22:24:partial
+20644 4:4:partial 12:13:contextual 21:21:wrong 23:25:contextual
+20645 2:1:contextual 5:4:contextual 23:23:wrong 32:33:wrong 34:34:partial
+20646 3:3:wrong 9:8:partial 31:26:partial 32:31:partial 43:44:wrong
+20647 9:9:sure 10:11:wrong 22:22:wrong 27:26:wrong 30:29:contextual
+20648 3:5:contextual 18:22:contextual 25:29:contextual
+20649 4:4:contextual 11:13:partial 29:30:sure 35:35:wrong
+20650 0:1:contextual
+20651 16:17:wrong 21:21:partial
+20653 8:8:sure
+20654 21:23:wrong 33:34:contextual
+20655 21:21:wrong 32:27:contextual
+20656 8:5:contextual 23:28:partial 25:31:partial
+20657 6:7:partial 13:19:contextual 19:25:wrong 22:27:contextual 36:40:contextual
+20658 17:19:partial 20:22:contextual
+20659 14:19:sure
+20660 10:10:contextual 17:18:contextual 24:25:partial
+20661 3:3:contextual 19:23:wrong 47:49:partial 55:55:contextual
+20662 5:5:partial 19:19:wrong 20:20:wrong
+20663 23:27:wrong 48:55:contextual
+20664 4:4:wrong
+20665 3:1:contextual 13:13:wrong 15:14:wrong 24:22:partial
+20667 7:9:contextual 23:24:contextual 26:27:partial 48:50:partial 51:53:contextual
+20668 7:7:contextual 16:16:contextual 18:18:partial 33:32:partial 37:37:wrong
+20670 17:22:wrong 21:28:partial 38:47:contextual 42:51:sure 59:66:sure
+20671 9:8:contextual 13:16:sure
+20672 8:5:contextual 9:6:sure 16:13:wrong 19:15:partial 20:19:sure
+20673 5:6:wrong 14:20:wrong 18:30:contextual 22:32:wrong

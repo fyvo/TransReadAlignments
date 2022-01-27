@@ -1,0 +1,92 @@
+LIMSI word alignment confidence annotation corpus
+A collection of confidence annotations of word alignment links.
+
+This resource has been produced in the course of the TransRead
+Project (https://transread.limsi.fr) funded by the French National
+Research Agency under contract ANR-12-CORD-0015.
+
+Please cite the following paper if you use the resource in your research:
+
+Yong Xu and François Yvon (2016). Novel elicitations and annotation schemes for sentential 
+and sub-sentential alignments of bi-texts. Proceedings of 10th Language 
+Resources and Evaluation Conference (LREC 2016). Portorož (Slovenia).
+
+CONTENT/STRUCTURE
+
+All documents for one language pair (e.g. English_French) are stored in one directory.
+Each directory contains one or more sub-directories, each corresponding to one task.
+
+In one task, tokenized parallel text is stored in one file. Annotations are stored
+in seperated files. For certain tasks, multiple annotators have annotated the same 
+parallel text. In this case, the annotations of one annotator are stored in one file.
+
+Note: in the annotations, word index begins at 0. 
+
+Please refer to the aforementioned paper for the semantic of annoation tags.
+
+Statistics (if multiple annotators accomplished the same task, they all annotated the same
+amount of links. For example, the first line of the English-French table means all 3 annoators have
+annotated 2189 links):
+
+English-French
+===========================================
+Task              & # Annotator   & # Annotated links  
+task_1_fr-en      &     3         &       2189
+task_2_fr-en      &     3         &        502
+                
+Total             &               &       2691        
+===========================================
+
+English_Greek
+===========================================
+Task              & # Annotator   & # Annotated links
+task_1_el-en      &     1         &        203
+task_2_el-en      &     1         &       2001
+
+Total             &               &       2204
+===========================================
+
+English_Spanish
+===========================================
+Task              & # Annotator   & # Annotated links
+task_1_es-en      &     2         &        783
+task_2_es-en      &     1         &        203
+task_3_es-en      &     1         &        129
+task_4_es-en      &     1         &       2003
+
+Total             &               &       3118
+===========================================
+
+French_Greek
+===========================================
+Task              & # Annotator   & # Annotated links
+task_1_el-fr      &     1         &        527
+
+Total             &               &        527
+===========================================
+
+French_Spanish
+===========================================
+Task              & # Annotator   & # Annotated links
+task_1_fr-es      &     1         &        200
+task_2_fr-es      &     2         &        335
+task_3_fr-es      &     1         &        321
+task_4_es-fr      &     1         &       2002
+task_5_es-fr      &     1         &        138
+
+Total             &               &       2996
+===========================================
+
+ 
+LICENCE
+
+The annotations and database rights of this database are licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
+
+CONTAC’ INFORMATION
+
+For more information, please contact {yong@limsi.fr, yvon@limsi}
+

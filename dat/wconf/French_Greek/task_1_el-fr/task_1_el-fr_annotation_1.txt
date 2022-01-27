@@ -1,0 +1,144 @@
+
+20001 6:6:partial 15:13:contextual 19:18:sure 22:19:wrong
+20002 0:7:contextual 1:18:wrong 3:2:partial 11:20:wrong
+20003 1:2:partial 7:9:wrong 8:13:sure 11:15:wrong 12:17:sure
+20004 2:5:wrong 7:9:wrong
+20005 8:15:sure 9:13:sure 17:23:contextual
+20006 2:3:sure 10:9:wrong 15:18:sure
+20007 2:4:sure 5:13:wrong 6:16:wrong 8:18:partial
+20008 4:5:sure 9:8:sure 17:17:sure
+20009 7:17:contextual 8:18:wrong 17:10:partial
+20010 5:6:contextual 10:13:contextual 13:18:partial 14:20:wrong 15:22:contextual
+20011 11:15:wrong 13:16:partial 14:24:sure 18:12:partial
+20012 1:27:sure 7:35:wrong 13:1:contextual 15:4:contextual 18:7:contextual
+20013 4:5:partial 13:16:sure
+20014 0:1:partial 5:7:sure
+20015 1:1:wrong 19:24:wrong 27:36:wrong
+20016 4:5:wrong 6:8:contextual 7:9:contextual 9:11:sure 11:13:sure
+20017 6:6:sure 7:11:wrong 8:7:partial 17:22:wrong
+20018 2:3:wrong
+20019 4:8:sure 5:10:contextual 11:16:wrong 20:22:sure 25:27:sure
+20020 1:1:partial 3:2:sure 14:12:sure 17:14:sure 18:15:sure
+20021 3:6:wrong 8:10:sure 11:16:wrong 19:24:partial 22:26:partial
+20022 2:3:wrong 8:7:contextual 13:12:wrong
+20023 6:6:partial 17:20:sure 19:21:sure
+20024 11:10:wrong 22:21:sure 25:23:contextual 30:27:partial 35:31:wrong
+20025 3:5:sure 5:7:wrong
+20026 6:6:wrong
+20027 5:4:wrong 25:25:partial 29:29:contextual 35:38:sure 38:44:sure
+20028 2:2:sure 4:3:wrong 6:4:sure 7:5:contextual 9:6:partial
+20029 3:6:sure 6:9:wrong 16:23:sure 18:25:sure 29:37:wrong
+20030 0:1:wrong 5:10:contextual 6:14:contextual 9:15:wrong
+20031 4:13:wrong 9:20:sure 12:26:wrong
+20032 6:9:wrong 11:15:contextual 15:22:contextual
+20034 0:1:contextual 2:20:contextual 4:21:wrong 9:38:contextual
+20035 3:3:wrong 9:16:wrong
+20036 3:5:wrong 10:13:sure
+20037 3:4:sure 9:9:sure
+20038 0:1:wrong 3:19:contextual 4:20:contextual 19:7:sure
+20039 7:7:wrong 9:9:partial
+20040 6:9:partial 14:15:sure 19:20:sure 26:30:sure 30:34:partial
+20041 3:3:wrong 11:10:sure
+20042 2:2:partial 5:4:sure 12:10:sure
+20043 1:1:sure 12:10:sure
+20044 4:6:sure 10:12:wrong 11:13:wrong 13:16:wrong
+20045 6:3:contextual 13:10:wrong 18:13:sure 25:21:contextual
+20046 5:6:sure 12:11:contextual
+20047 2:2:wrong 3:5:wrong 6:12:contextual 19:28:contextual
+20048 6:5:sure 16:13:wrong
+20049 0:1:wrong 1:2:wrong 7:13:wrong 20:21:wrong 22:28:wrong
+20050 4:4:partial 5:7:partial 7:10:wrong 15:20:wrong 29:18:sure
+20051 6:9:sure 7:10:contextual
+20052 4:5:contextual 8:9:contextual
+20053 7:8:wrong 8:10:contextual
+20054 0:3:partial 9:16:sure 16:22:sure 21:24:wrong
+20055 4:4:partial 11:13:partial 17:23:wrong 18:25:partial 19:26:partial
+20057 3:4:wrong
+20058 7:8:contextual 18:21:wrong 19:23:sure 27:27:contextual
+20059 9:7:contextual 10:12:wrong 19:20:sure 25:24:sure 33:37:contextual
+20060 1:2:wrong 3:3:partial 9:12:contextual 13:14:sure
+20061 19:20:sure 27:28:wrong 32:36:partial
+20062 10:20:contextual
+20063 4:4:sure 9:8:partial 13:12:sure
+20065 2:23:partial 4:27:partial 21:14:sure 26:20:sure
+20066 9:11:sure 10:12:sure 22:27:partial
+20067 4:7:wrong 12:15:sure 16:20:wrong 19:26:partial 22:29:sure
+20068 0:0:sure 7:8:contextual 10:10:sure 29:27:contextual 33:35:contextual
+20070 11:8:partial 15:10:wrong 26:25:sure 28:33:partial 32:36:contextual
+20071 3:2:wrong 17:17:sure 25:24:contextual 27:26:sure 29:35:wrong
+20072 9:13:sure 22:23:contextual
+20073 4:3:sure 6:6:sure 23:27:sure
+20074 15:3:sure 24:9:wrong 25:10:partial 29:13:wrong
+20075 3:2:sure 7:4:wrong 9:12:sure
+20076 13:10:sure
+20077 3:2:wrong 8:6:wrong 18:18:partial 20:20:wrong 21:23:sure
+20078 2:3:contextual 3:4:sure 5:7:partial 16:18:sure 20:26:sure
+20079 9:12:wrong 14:30:sure 23:20:contextual 27:24:sure 30:33:sure
+20080 0:3:wrong 6:11:sure 8:14:sure 11:18:partial
+20081 3:3:sure 6:4:sure 8:7:sure 16:14:sure
+20083 8:10:wrong 12:11:wrong
+20084 13:10:wrong 22:27:contextual 24:33:partial
+20085 7:8:contextual 9:10:partial 14:16:sure 17:18:partial 21:23:sure
+20086 3:16:sure 6:20:sure 9:1:wrong 19:12:partial
+20087 2:1:sure 5:8:sure 16:17:sure 19:19:sure 24:25:sure
+20088 3:3:sure 14:18:contextual 17:22:sure 23:6:wrong
+20089 0:0:wrong 3:1:wrong 5:4:sure 9:14:sure 11:19:contextual
+20090 1:2:sure 9:14:sure 13:20:sure
+20091 6:3:sure 15:22:contextual 22:24:sure 25:29:partial 28:32:sure
+20092 6:20:partial 8:23:partial 11:24:contextual 22:9:contextual 24:10:wrong
+20093 2:2:sure 5:6:sure 6:7:sure 12:15:contextual
+20094 5:5:wrong 6:8:wrong 9:17:wrong 19:27:wrong 25:33:partial
+20095 11:15:wrong
+20096 14:19:sure 21:27:sure 41:59:partial 46:63:wrong 48:68:wrong
+20097 12:11:contextual 14:13:sure 16:16:sure 18:20:contextual 24:25:wrong
+20098 3:4:partial 7:11:sure 14:17:wrong 19:28:partial 24:31:wrong
+20099 7:10:wrong 9:2:wrong
+20100 5:10:wrong
+20101 10:10:sure 12:12:contextual
+20102 6:6:sure 8:8:sure 12:13:partial
+20103 3:2:contextual 9:10:wrong 19:17:wrong
+20104 11:12:contextual 14:14:partial 17:17:sure 22:23:partial 24:25:partial
+20105 1:2:partial 4:4:sure 6:5:sure 13:12:sure 25:24:contextual
+20106 20:28:contextual
+20107 11:10:partial 29:36:sure 40:52:contextual 48:62:contextual 58:76:wrong
+20108 38:42:contextual 40:43:contextual
+20109 0:1:wrong 4:4:sure 6:8:contextual 15:14:sure 27:24:partial
+20110 4:8:contextual 13:19:partial 14:22:partial 20:25:contextual 23:30:wrong
+20111 4:43:wrong 8:53:wrong 16:12:wrong 23:18:contextual 34:32:sure
+20112 11:13:sure 13:17:wrong 27:34:wrong 35:43:partial 39:56:contextual
+20113 4:7:contextual 5:9:sure 15:21:sure
+20114 1:2:sure 10:19:wrong
+20115 6:9:partial 8:11:sure 14:17:wrong 17:23:contextual 19:24:contextual
+20116 2:2:sure 18:23:contextual 32:39:sure 43:51:sure 47:54:wrong
+20117 0:1:sure 7:11:contextual 10:14:sure 16:26:contextual 17:24:wrong
+20118 1:1:sure 12:13:contextual 14:15:sure 15:17:sure 21:26:sure
+20119 6:6:wrong 15:22:partial 16:25:partial 20:33:partial
+20120 5:5:sure 12:11:sure 16:13:partial
+20121 0:0:sure 10:14:partial
+20122 2:2:partial 9:6:partial 13:14:wrong 32:36:sure
+20123 6:5:partial 8:9:sure 18:18:sure 25:23:contextual 30:27:contextual
+20124 17:18:wrong 19:21:wrong 27:30:wrong 31:34:contextual 33:36:sure
+20125 15:14:contextual 18:15:partial 27:25:sure 31:30:sure
+20126 1:2:sure 23:27:partial 27:30:partial 34:39:contextual 35:42:sure
+20127 7:6:sure 9:12:partial 10:9:partial 18:20:sure 22:27:sure
+20128 19:27:sure
+20129 4:5:contextual 9:11:partial 15:15:wrong 20:21:sure 30:33:sure
+20130 6:3:partial 15:17:wrong 34:32:sure 58:49:sure 69:66:partial
+20131 6:5:sure 10:12:wrong 20:22:sure
+20132 4:4:partial 8:10:sure
+20133 7:8:sure 9:11:sure 20:21:contextual 23:26:partial 30:34:sure
+20134 0:1:sure 5:7:partial 20:23:sure 28:30:sure 30:31:wrong
+20135 5:13:sure 7:14:contextual 25:31:sure 29:35:wrong 37:42:sure
+20137 26:29:wrong 30:34:contextual 32:38:wrong 40:45:contextual 42:47:wrong
+20138 6:11:partial 18:23:sure 20:28:partial 35:40:sure 54:58:sure
+20139 3:3:sure 12:12:sure 14:14:contextual
+20140 3:2:sure 22:19:sure 32:38:sure 38:40:sure 40:42:sure
+20142 1:2:wrong 6:4:contextual 35:35:sure 48:50:partial 56:60:wrong
+20143 1:2:sure 6:8:partial 16:19:partial 26:24:partial 30:31:contextual
+20144 3:4:sure 12:12:wrong 17:18:partial 21:25:sure 22:23:sure
+20145 3:6:contextual 8:10:sure 21:30:partial
+20146 9:12:sure
+20147 10:7:wrong 18:15:partial 28:24:contextual 36:34:sure 41:40:contextual
+20148 28:33:sure 30:35:sure
+20149 17:14:wrong 38:17:contextual 43:43:sure
+20150 6:4:contextual 9:9:sure 15:16:wrong

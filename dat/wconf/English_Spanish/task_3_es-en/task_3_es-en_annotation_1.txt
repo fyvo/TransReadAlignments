@@ -1,0 +1,41 @@
+
+30001 1:2:sure 4:7:contextual
+30002 0:21:partial 12:10:contextual 13:12:contextual 16:15:wrong
+30003 0:2:partial 11:14:wrong
+30004 7:8:wrong 12:14:partial 22:24:contextual
+30005 4:4:wrong
+30006 5:11:partial 6:13:contextual 8:16:wrong
+30007 14:11:wrong 21:17:contextual 25:22:partial 26:24:partial 28:26:contextual
+30008 6:2:partial 9:7:contextual 11:6:contextual 22:18:partial 39:37:contextual
+30009 8:7:contextual 18:14:partial 19:15:partial 20:17:contextual 35:30:contextual
+30010 4:6:contextual 11:15:wrong
+30011 4:4:contextual 8:9:partial 33:32:partial 55:50:sure 60:54:contextual
+30012 0:2:contextual 5:7:contextual
+30013 4:6:partial 6:8:wrong 11:12:sure
+30014 1:5:wrong 3:7:wrong 7:10:contextual 11:9:sure 28:24:wrong
+30015 2:1:wrong 10:7:wrong 12:9:sure 14:11:sure 18:16:wrong
+30016 31:34:wrong 36:38:wrong 42:43:contextual 45:45:contextual 46:46:contextual
+30017 2:3:sure
+30018 14:16:contextual
+30019 2:2:contextual 23:24:sure 24:23:contextual 27:27:contextual 28:26:contextual
+30020 8:4:sure 9:6:contextual 11:13:contextual 20:23:contextual 27:27:wrong
+30021 7:10:wrong
+30022 10:12:contextual
+30023 1:3:contextual 2:5:sure 6:11:partial 15:18:contextual 27:30:wrong
+30024 4:5:contextual 8:8:contextual 15:16:contextual 24:25:contextual 34:34:contextual
+30025 1:4:contextual 10:13:contextual
+30026 3:3:sure
+30027 3:3:contextual 4:4:partial 7:7:contextual
+30028 2:3:sure 40:44:partial 46:49:contextual 48:52:wrong 49:53:contextual
+30029 5:3:partial 6:7:contextual 10:10:contextual 14:14:contextual
+30030 3:6:wrong
+30031 4:2:partial 6:3:sure 11:8:contextual 16:13:contextual 21:20:contextual
+30032 5:7:contextual 13:15:wrong
+30033 3:2:contextual 13:8:wrong 24:15:sure 28:18:contextual 31:22:contextual
+30034 9:11:sure 12:13:contextual 14:15:partial
+30035 7:1:contextual 12:10:sure
+30036 7:3:contextual 10:9:contextual 22:18:wrong 26:21:wrong
+30037 1:3:contextual 2:2:contextual
+30038 13:13:partial 14:14:contextual 17:17:sure
+30039 5:5:contextual
+30040 1:2:contextual 2:3:sure 6:7:sure 19:24:sure 29:35:sure

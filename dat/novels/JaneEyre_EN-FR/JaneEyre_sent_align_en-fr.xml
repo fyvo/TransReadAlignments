@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE cesAlign PUBLIC "-//CES//DTD XML cesAlign//EN" "">
+<cesAlign fromDoc="JaneEyre_en.xml" toDoc="JaneEyre_fr.xml" version="1.0">
+<linkList>
+<linkGrp fromDoc="JaneEyre_en.xml" targType="s" toDoc="JaneEyre_fr.xml">
+<link id="SL0" xtargets="1.1;1.1" />
+<link id="SL1" xtargets="1.2;1.2" />
+<link id="SL2" xtargets="1.3;1.3" />
+<link id="SL3" xtargets="1.4 1.5;1.4" />
+<link id="SL4" xtargets=";1.5" />
+<link id="SL5" xtargets="1.6;1.6" />
+<link id="SL6" xtargets="1.7;1.7" />
+<link id="SL7" xtargets="1.8;1.8" />
+<link id="SL8" xtargets="1.9;1.9" />
+<link id="SL9" xtargets="1.10;1.10" />
+<link id="SL10" xtargets="1.11;1.11 1.12" />
+<link id="SL11" xtargets="1.12;1.13" />
+<link id="SL12" xtargets="1.13;1.14" />
+<link id="SL13" xtargets="1.14;1.15" />
+<link id="SL14" xtargets="1.15;1.16" />
+<link id="SL15" xtargets="1.16;1.17" />
+<link id="SL16" xtargets="1.17;1.18" />
+<link id="SL17" xtargets="1.18;1.19" />
+<link id="SL18" xtargets="1.19;1.20 1.21 1.22" />
+<link id="SL19" xtargets="1.20 1.21;1.23" />
+<link id="SL20" xtargets="1.22;1.24 1.25" />
+<link id="SL21" xtargets="1.23;1.26" />
+<link id="SL22" xtargets="1.24;1.27" />
+<link id="SL23" xtargets="1.25 1.26 1.27 1.28;" />
+<link id="SL24" xtargets="1.29;1.28 1.29" />
+<link id="SL25" xtargets="1.30 1.31;1.30" />
+<link id="SL26" xtargets="1.32;1.31" />
+<link id="SL27" xtargets="1.33;1.32" />
+<link id="SL28" xtargets="1.34;1.33 1.34" />
+<link id="SL29" xtargets="1.35;1.35" />
+<link id="SL30" xtargets="1.36 1.37;1.36" />
+<link id="SL31" xtargets="1.38;1.37 1.38" />
+<link id="SL32" xtargets="1.39;1.39" />
+<link id="SL33" xtargets="1.40;1.40" />
+<link id="SL34" xtargets="1.41;1.41" />
+<link id="SL35" xtargets="1.42;1.42" />
+<link id="SL36" xtargets="1.43;1.43 1.44" />
+<link id="SL37" xtargets="1.44;1.45 1.46" />
+<link id="SL38" xtargets="1.45;1.47 1.48" />
+<link id="SL39" xtargets="1.46;1.49" />
+<link id="SL40" xtargets="1.47;1.50" />
+<link id="SL41" xtargets="1.48;1.51" />
+<link id="SL42" xtargets="1.49;1.52" />
+<link id="SL43" xtargets="1.50;1.53 1.54" />
+<link id="SL44" xtargets="1.51;1.55 1.56 1.57" />
+<link id="SL45" xtargets="1.52;1.58 1.59 1.60" />
+<link id="SL46" xtargets="1.53;1.61" />
+<link id="SL47" xtargets="1.54;1.62" />
+<link id="SL48" xtargets="1.55;1.63" />
+<link id="SL49" xtargets="1.56;1.64" />
+<link id="SL50" xtargets="1.57;1.65 1.66" />
+<link id="SL51" xtargets="1.58;1.67" />
+<link id="SL52" xtargets="1.59;1.68" />
+<link id="SL53" xtargets="1.60;1.69" />
+<link id="SL54" xtargets="1.61;1.70" />
+<link id="SL55" xtargets="1.62 1.63;1.71" />
+<link id="SL56" xtargets="1.64;1.72 1.73 1.74" />
+<link id="SL57" xtargets="1.65;1.75" />
+<link id="SL58" xtargets="1.66 1.67 1.68;1.76" />
+<link id="SL59" xtargets="1.69;1.77" />
+<link id="SL60" xtargets="1.70;" />
+<link id="SL61" xtargets="1.71;1.78" />
+<link id="SL62" xtargets="1.72;1.79" />
+<link id="SL63" xtargets="1.73;1.80" />
+<link id="SL64" xtargets="1.74;1.81" />
+<link id="SL65" xtargets="1.75;1.82" />
+<link id="SL66" xtargets="1.76;" />
+<link id="SL67" xtargets="1.77 1.78;1.83" />
+<link id="SL68" xtargets="1.79;" />
+<link id="SL69" xtargets="1.80;1.84 1.85" />
+<link id="SL70" xtargets="1.81;1.86" />
+<link id="SL71" xtargets="1.82;1.87" />
+<link id="SL72" xtargets="1.83;1.88 1.89" />
+<link id="SL73" xtargets="1.84;" />
+<link id="SL74" xtargets="1.85;1.90" />
+<link id="SL75" xtargets="1.86;1.91" />
+<link id="SL76" xtargets="1.87;1.92" />
+<link id="SL77" xtargets="1.88;1.93" />
+<link id="SL78" xtargets="1.89;1.94" />
+<link id="SL79" xtargets="1.90;1.95" />
+<link id="SL80" xtargets="1.91;1.96" />
+<link id="SL81" xtargets="1.92;1.97 1.98 1.99" />
+<link id="SL82" xtargets="1.93 1.94;1.100 1.101" />
+<link id="SL83" xtargets="1.95;1.102" />
+<link id="SL84" xtargets="1.96;1.103" />
+<link id="SL85" xtargets="1.97;1.104" />
+<link id="SL86" xtargets="1.98;1.105" />
+<link id="SL87" xtargets="1.99;1.106" />
+<link id="SL88" xtargets="1.100;1.107 1.108" />
+<link id="SL89" xtargets="1.101;1.109" />
+<link id="SL90" xtargets="1.102;1.110" />
+<link id="SL91" xtargets="1.103;1.111" />
+<link id="SL92" xtargets="1.104;1.112" />
+<link id="SL93" xtargets="1.105;1.113" />
+<link id="SL94" xtargets="1.106;1.114" />
+<link id="SL95" xtargets="1.107;1.115 1.116 1.117" />
+<link id="SL96" xtargets="1.108;1.118" />
+<link id="SL97" xtargets="1.109 1.110 1.111;1.119" />
+<link id="SL98" xtargets="1.112;1.120 1.121 1.122" />
+<link id="SL99" xtargets="1.113;1.123" />
+<link id="SL100" xtargets="1.114;1.124" />
+<link id="SL101" xtargets="1.115;1.125" />
+<link id="SL102" xtargets="1.116;1.126" />
+<link id="SL103" xtargets="1.117;1.127" />
+<link id="SL104" xtargets="1.118;1.128 1.129" />
+<link id="SL105" xtargets="1.119;1.130 1.131" />
+<link id="SL106" xtargets="1.120;1.132 1.133" />
+<link id="SL107" xtargets="1.121;1.134" />
+<link id="SL108" xtargets="1.122;1.135" />
+<link id="SL109" xtargets="1.123;1.136 1.137" />
+<link id="SL110" xtargets="1.124;1.138" />
+<link id="SL111" xtargets="1.125;1.139" />
+<link id="SL112" xtargets="1.126;1.140" />
+<link id="SL113" xtargets="1.127;1.141" />
+<link id="SL114" xtargets="1.128;1.142 1.143 1.144" />
+<link id="SL115" xtargets="1.129;1.145" />
+<link id="SL116" xtargets="1.130 1.131;1.146 1.147" />
+<link id="SL117" xtargets="1.132;1.148 1.149" />
+<link id="SL118" xtargets="1.133;1.150" />
+<link id="SL119" xtargets="1.134;1.151" />
+<link id="SL120" xtargets="1.135 1.136;1.152 1.153" />
+<link id="SL121" xtargets="1.137;1.154" />
+<link id="SL122" xtargets="1.138;1.155 1.156" />
+<link id="SL123" xtargets="1.139;1.157" />
+<link id="SL124" xtargets="1.140;1.158" />
+<link id="SL125" xtargets="1.141 1.142 1.143;1.159" />
+<link id="SL126" xtargets="1.144;1.160 1.161" />
+<link id="SL127" xtargets="1.145;1.162" />
+<link id="SL128" xtargets="1.146 1.147;1.163 1.164 1.165 1.166 1.167 1.168" />
+<link id="SL129" xtargets="1.148 1.149 1.150;1.169" />
+<link id="SL130" xtargets="1.151;1.170 1.171" />
+<link id="SL131" xtargets="1.152;1.172" />
+<link id="SL132" xtargets="1.153;1.173" />
+<link id="SL133" xtargets="1.154;1.174" />
+<link id="SL134" xtargets="1.155;1.175" />
+<link id="SL135" xtargets="1.156;1.176" />
+<link id="SL136" xtargets="1.157 1.158;1.177" />
+<link id="SL137" xtargets="1.159;1.178" />
+<link id="SL138" xtargets="1.160;1.179 1.180" />
+<link id="SL139" xtargets="1.161;1.181" />
+<link id="SL140" xtargets="1.162 1.163;1.182 1.183" />
+<link id="SL141" xtargets="1.164;1.184" />
+<link id="SL142" xtargets="1.165;1.185 1.186" />
+<link id="SL143" xtargets="1.166;1.187" />
+<link id="SL144" xtargets="1.167 1.168;1.188 1.189" />
+<link id="SL145" xtargets="1.169 1.170;1.190" />
+<link id="SL146" xtargets="1.171 1.172;1.191 1.192" />
+<link id="SL147" xtargets="1.173;1.193 1.194" />
+<link id="SL148" xtargets="1.174 1.175;1.195" />
+<link id="SL149" xtargets="1.176;1.196" />
+<link id="SL150" xtargets="1.177;1.197 1.198" />
+<link id="SL151" xtargets="1.178;1.199 1.200" />
+<link id="SL152" xtargets="1.179 1.180;1.201" />
+<link id="SL153" xtargets="1.181;1.202" />
+<link id="SL154" xtargets="1.182;1.203" />
+<link id="SL155" xtargets="1.183;1.204 1.205" />
+<link id="SL156" xtargets="1.184;1.206" />
+<link id="SL157" xtargets="1.185;1.207" />
+<link id="SL158" xtargets="1.186;1.208" />
+<link id="SL159" xtargets="1.187 1.188;1.209" />
+<link id="SL160" xtargets="1.189;1.210 1.211" />
+<link id="SL161" xtargets="1.190;1.212 1.213 1.214" />
+<link id="SL162" xtargets="1.191;1.215" />
+<link id="SL163" xtargets="1.192;1.216 1.217" />
+<link id="SL164" xtargets="1.193;1.218" />
+<link id="SL165" xtargets="1.194;1.219" />
+<link id="SL166" xtargets="1.195;1.220" />
+<link id="SL167" xtargets="1.196;" />
+<link id="SL168" xtargets="1.197;1.221" />
+<link id="SL169" xtargets="1.198 1.199;1.222" />
+<link id="SL170" xtargets="1.200 1.201 1.202;1.223 1.224" />
+<link id="SL171" xtargets="1.203;1.225 1.226" />
+<link id="SL172" xtargets="1.204;1.227 1.228" />
+<link id="SL173" xtargets="1.205;1.229" />
+</linkGrp>
+</linkList>
+</cesAlign>
